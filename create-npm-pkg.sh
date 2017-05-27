@@ -67,7 +67,7 @@ EOF
 ##
 echo yarn init...
 yarn init
-yarn add ava
+yarn add --dev ava
 
 
 ##
