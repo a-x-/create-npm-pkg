@@ -44,7 +44,8 @@ create-npm-pkg my-awesome-package 'super awesome killer package'
 * [ ] Create src dir and another boilerplate files
 * [ ] gh + npm tags
 * [ ] npm name check
-* [x] ~~merge with `create-npm-package`?~~
+* [ ] merge with `create-npm-package`?
+* [ ] embed https://runkit.com/ iframe or add link to readme.md
 
 ## Another npm related helpers
 * [open a npm package's repo from the browser's omnibox or the alfred.app](http://npmapi.invntrm.ru)
