@@ -30,3 +30,7 @@ create-npm-pkg my-awesome-package 'super awesome killer package'
 
 <img width="690" alt="create-npm-pkg output" src="https://cloud.githubusercontent.com/assets/6201068/26523846/8f2ed486-4329-11e7-8162-b2e77a7981fc.png">
 
+## Todo
+
+* [ ] Simplify installation
+* [ ] Rewrite to js
