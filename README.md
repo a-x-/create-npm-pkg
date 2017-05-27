@@ -37,6 +37,8 @@ create-npm-pkg my-awesome-package 'super awesome killer package'
 * [ ] Write tests
 * [ ] Add another helpers (update-npm-title, bump-npm-version, etc)
 * [ ] Add test framefork selector (ava, jest, `_____`)
+* [ ] Add complete message
+* [ ] Install `yarn` automatically
 
 ## Another npm related helpers
 * [open a npm package's repo from the browser's omnibox or the alfred.app](http://npmapi.invntrm.ru)
