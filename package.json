@@ -5,5 +5,8 @@
   "repository": "git@github.com:a-x-/create-npm-pkg.git",
   "author": "Alex Mextner <alex@rocketguys.com>",
   "version": "0.1.0",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "create-npm-pkg": "./create-npm-pkg.sh"
+  }
 }
