@@ -44,7 +44,7 @@ create-npm-pkg my-awesome-package 'super awesome killer package'
 
 ## Another npm related helpers
 * [open a npm package's repo from the browser's omnibox or the alfred.app](http://npmapi.invntrm.ru)
-* [create-npm-package](https://github.com/MatteoGabriele/create-npm-package) like this but w/o deskription, travis & etc.
+* [create-npm-package](https://github.com/MatteoGabriele/create-npm-package) like this but w/o description, travis & etc.
 * ... awesome suggestions are welcome
 
 Pull requests are welcome 👋
