@@ -36,3 +36,4 @@ create-npm-pkg my-awesome-package 'super awesome killer package'
 * [ ] Rewrite to js
 * [ ] Write tests
 * [ ] Add another helpers (update-npm-title, bump-npm-version, etc)
+* [ ] Add test framefork selector (ava, jest, `_____`)
