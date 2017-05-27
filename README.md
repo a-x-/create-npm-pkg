@@ -1,6 +1,8 @@
 # create-npm-pkg [![Build Status](https://travis-ci.org/a-x-/create-npm-pkg.svg?branch=master)](https://travis-ci.org/a-x-/create-npm-pkg)
 
-Create npm package and git repo. + travis-ci
+Create npm package and git repo. + travis-ci.
+
+`create-npm-pkg` is like a `create-react-app` but for fast creating new super awesome npm packages.
 
 ## Installation
 ```bash
