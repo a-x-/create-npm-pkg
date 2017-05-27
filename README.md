@@ -1,6 +1,7 @@
 # create-npm-pkg [![Build Status](https://travis-ci.org/a-x-/create-npm-pkg.svg?branch=master)](https://travis-ci.org/a-x-/create-npm-pkg)
 
 Create npm package and git repo. + travis-ci.
+JS framework and library kind agnostic.
 
 `create-npm-pkg` is like a `create-react-app` but for fast creating new super awesome npm packages.
 
@@ -34,6 +35,7 @@ create-npm-pkg my-awesome-package 'super awesome killer package'
 
 * [ ] Simplify installation
 * [ ] Rewrite to js
+* [ ] remove dependencies (hub, travis.rb)
 * [ ] Write tests
 * [ ] Add another helpers (update-npm-title, bump-npm-version, etc)
 * [ ] Add test framefork selector (ava, jest, `_____`)
@@ -42,7 +44,7 @@ create-npm-pkg my-awesome-package 'super awesome killer package'
 * [ ] Create src dir and another boilerplate files
 * [ ] gh + npm tags
 * [ ] npm name check
-* [ ] merge with `create-npm-package`?
+* [x] ~~merge with `create-npm-package`?~~
 
 ## Another npm related helpers
 * [open a npm package's repo from the browser's omnibox or the alfred.app](http://npmapi.invntrm.ru)
