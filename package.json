@@ -1,0 +1,9 @@
+{
+  "name": "create-npm-pkg",
+  "description": "Create npm package and git repo. + travis-ci",
+  "main": "index.js",
+  "repository": "git@github.com:a-x-/create-npm-pkg.git",
+  "author": "Alex Mextner <alex@rocketguys.com>",
+  "version": "0.1.0",
+  "license": "MIT"
+}
