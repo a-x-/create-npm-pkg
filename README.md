@@ -44,7 +44,7 @@ create-npm-pkg my-awesome-package 'super awesome killer package'
 * [ ] Create src dir and another boilerplate files
 * [ ] gh + npm tags
 * [ ] npm name check
-* [ ] merge with `create-npm-package`?
+* [x] ~~merge with `create-npm-package`?~~. `create-npm-package` is focusing on local bootstraping only.
 * [ ] embed https://runkit.com/ iframe or add link to readme.md
 
 ## Another npm related helpers
