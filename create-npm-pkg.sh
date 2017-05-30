@@ -97,7 +97,7 @@ git push -u origin master
 
 ##
 ##
-echo npm pulish...
+echo npm publish...
 npm publish
 
 
