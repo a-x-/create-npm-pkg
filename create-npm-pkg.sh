@@ -72,6 +72,10 @@ yarn add --dev ava
 
 ##
 ##
+mkdir src test docs build
+
+##
+##
 echo git init...
 git init
 echo $description > .git/description
