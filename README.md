@@ -41,7 +41,7 @@ create-npm-pkg my-awesome-package 'super awesome killer package'
 * [ ] Add test framefork selector (ava, jest, `_____`)
 * [ ] Add complete message
 * [ ] Install `yarn` automatically
-* [ ] Create src dir and another boilerplate files
+* [x] Create src dir and another boilerplate files
 * [ ] gh + npm tags
 * [ ] npm name check
 * [x] ~~merge with `create-npm-package`?~~. `create-npm-package` is focusing on local bootstraping only.
