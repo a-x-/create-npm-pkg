@@ -1,5 +1,4 @@
 import test from 'ava';
-import lib from '.';
 
 test('foo', t => {
   t.pass();

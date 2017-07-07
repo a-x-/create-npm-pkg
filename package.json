@@ -6,7 +6,13 @@
   "author": "Alex Mextner <alex@rocketguys.com>",
   "version": "0.3.2",
   "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
   "bin": {
     "create-npm-pkg": "./create-npm-pkg.sh"
+  },
+  "devDependencies": {
+    "ava": "^0.20.0"
   }
 }

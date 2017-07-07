@@ -21,6 +21,9 @@ cat << PKG > package.json
   "scripts": {
     "test": "ava"
   },
+  "devDependencies": {
+    "ava": "^0.20.0"
+  }
   "repository": {
     "url": "$origin",
     "type": "git"
