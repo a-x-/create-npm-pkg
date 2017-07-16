@@ -23,7 +23,7 @@ cat << PKG > package.json
   },
   "devDependencies": {
     "ava": "^0.20.0"
-  }
+  },
   "repository": {
     "url": "$origin",
     "type": "git"
@@ -113,7 +113,7 @@ npm publish
 echo enable travis...
 travis enable -r $user/$name || echo "do it manually:\ntravis enable -r $user/$name"
 
-echo "\n🎉 done\n cd $name"
+echo -e "\n🎉 done\n cd $name"
 
 # echo '{ \
 #   "name": "'$name'",\
