@@ -112,9 +112,9 @@ npm publish
 ##
 ##
 echo enable travis...
-travis enable -r $user/$name || echo "do it manually:\ntravis enable -r $user/$name"
+travis enable -r $user/$name || echo -e "do it manually:\ntravis enable -r $user/$name"
 
-echo -e "\n🎉 done\n cd $name"
+echo -e "\n🎉  done\n cd $name"
 
 # echo '{ \
 #   "name": "'$name'",\
