@@ -17,6 +17,7 @@ cat << PKG > package.json
 {
   "name": "$name",
   "description": "$description",
+  "version": "0.1.0",
   "main": "src/index.js",
   "scripts": {
     "test": "ava"
